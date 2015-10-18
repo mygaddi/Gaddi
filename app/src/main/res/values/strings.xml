@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gaddi</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navitem1">test1</string>
+    <string name="navitem2">test2</string>
+    <string name="navitem3">test3</string>
+    <string name="action_settings">Settings</string>
+    <string name="openDrawer">opendrawer</string>
+    <string name="closeDrawer">closedrawer</string>
+</resources>
