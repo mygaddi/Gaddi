@@ -8,4 +8,5 @@
     <color name="SecondaryColorDark">#F6A2A2</color>
     <color name="SecondaryColorLight">#F8D0D1</color>
     <color name="SecondaryTextTitleDark">#A6A4AC</color>
+    <color name="FABcolor">#FFCA3A</color>
 </resources>

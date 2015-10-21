@@ -8,4 +8,10 @@
     <string name="action_settings">Settings</string>
     <string name="openDrawer">opendrawer</string>
     <string name="closeDrawer">closedrawer</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_app">Gaddi</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="appid">902032899844399</string>
 </resources>
